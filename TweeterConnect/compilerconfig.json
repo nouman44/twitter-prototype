@@ -1,0 +1,18 @@
+﻿[
+  {
+    "outputFile": "Styles/MainPageStyle.css",
+    "inputFile": "Styles/MainPageStyle.scss"
+  },
+  {
+    "outputFile": "Styles/LayoutStyle.css",
+    "inputFile": "Styles/LayoutStyle.scss"
+  },
+  {
+    "outputFile": "Styles/HomePageStyle.css",
+    "inputFile": "Styles/HomePageStyle.scss"
+  },
+  {
+    "outputFile": "Styles/ProfileStyle.css",
+    "inputFile": "Styles/ProfileStyle.scss"
+  }
+]

@@ -1,0 +1,56 @@
+﻿
+body {
+  font-family: Helvetica;
+  background-color: aliceblue; }
+
+.navbar {
+  background-color: dodgerblue;
+  width: 100%; }
+  .navbar .nav > li > a {
+    color: white;
+    font-size: 16px; }
+  .navbar .navbar-header > label {
+    color: white; }
+
+.blockDisplay {
+  display: block; }
+
+#contentBox {
+  vertical-align: top;
+  display: inline-block;
+  width: 700px;
+  margin-left: 15px;
+  margin-right: 15px; }
+
+#userStats {
+  vertical-align: top;
+  display: inline-block;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px;
+  margin-left: 5px; }
+
+#trending {
+  vertical-align: top;
+  display: inline-block;
+  background-color: white;
+  border-radius: 5px;
+  width: 200px;
+  padding: 15px; }
+
+.statBlock {
+  display: inline-block;
+  text-align: center; }
+
+.statLabel {
+  display: block;
+  position: relative; }
+
+#txtSearch {
+  width: 200px; }
+
+.hidden {
+  display: none; }
+
+
+

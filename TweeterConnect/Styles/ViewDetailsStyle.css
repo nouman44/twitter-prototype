@@ -1,0 +1,24 @@
+﻿body {
+}
+
+
+.hidden {
+    display:none;
+}
+
+.verticalBox {
+  display: block;
+  background-color: white;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding: 15px; }
+
+.username {
+    color:lightgray;
+    font-size:20px;
+}
+
+.details {
+    font-weight :bold;
+}
+

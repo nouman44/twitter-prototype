@@ -1,0 +1,113 @@
+﻿body {
+  font-family: Helvetica;
+  background-color: aliceblue; }
+
+.navbar {
+  background-color: dodgerblue;
+  width: 100%; }
+  .navbar .nav > li > a {
+    color: white;
+    font-size: 16px; }
+  .navbar .navbar-header > label {
+    color: white; }
+
+#convos {
+  vertical-align: top;
+  display: inline-block;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px;
+  margin-left: 10px; 
+  width :300px;
+  text-align:center;
+}
+
+#section {
+    vertical-align: top;
+    display: inline-block;
+}
+
+#messageBox {
+  vertical-align: top;
+  display: block;
+  width: 600px;
+  height: 600px;
+  overflow:scroll;
+  margin-left: 25px;
+  margin-right: 15px; 
+  background-color: white;
+  border-radius: 5px;
+  position: relative;
+}
+
+#postMsg {
+    display: block;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 25px;
+    border-radius: 5px;
+    padding: 15px; 
+    width: 600px;
+}
+
+.userMsg {
+    background-color: dodgerblue;
+    width: 200px;
+    height:auto;
+    border-radius: 5px;
+    display:block;
+    float: right;
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.otherMsg {
+    background-color:aliceblue;
+    width: 200px;
+    height:auto;
+    border-radius: 5px;
+    display:block;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+
+.convoUser {
+    background-color:white;
+    padding:15px;
+    display:block;
+    border-radius: 5px;
+}
+
+.convoUser:hover {
+    background-color:dodgerblue;
+    color: white;
+}
+
+.userName {
+  font-size: 16px;
+  color: lightgray; }
+
+.name {
+  font-size: 16px; }
+
+.msgDetails {
+    color: lightgray;
+    font-size:  12px;
+}
+
+.userMsgBody {
+    color: white;
+    font-size: 14px;
+}
+
+.otherMsgBody {
+    color: black;
+    font-size: 14px;
+}
+
+.clear {
+    clear: both;
+}

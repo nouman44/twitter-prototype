@@ -1,0 +1,31 @@
+﻿body {
+}
+
+.verticalBox {
+  display: block;
+  background-color: white;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding: 10px; }
+
+.blockUser {
+  font-size: 16px;
+  color: lightgray; }
+
+.blockName {
+  font-size: 16px; }
+
+.blockedBox {
+    display: block;
+    background-color: white;
+    margin-top: 0px;
+    padding: 15px;
+    border: 1px solid lightgray;
+    margin-top:1px;
+}
+
+.btnBlock {
+    float:right;
+    display:inline-block;
+    margin-left: 5px;
+}
